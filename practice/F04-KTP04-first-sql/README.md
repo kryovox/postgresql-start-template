@@ -1,8 +1,8 @@
-# Ф04 / КТП04 — реляционная модель и SQL
+# Пара 4 — реляционная модель и SQL
 
 [Полный урок со встроенной практикой](../../lectures/F04-KTP04-first-sql.md) · [DOCX](../../lectures/F04-KTP04-first-sql.docx) · [SQL-заготовка](lesson04.sql) · [Мои пояснения](notes.md)
 
-Основной пример — products. После разбора каждого действия применяйте тот же приём к movies по условию в уроке. Отдельного документа с задачами к этой редакции нет.
+Основной пример — products. После разбора каждого действия применяйте тот же приём к movies по условию в уроке.
 
 Используются integer, text, numeric, автоматические идентификаторы и PRIMARY KEY, NOT NULL, DEFAULT, CHECK. Отрабатываются CREATE TABLE, INSERT INTO, SELECT, UPDATE и DELETE FROM, условия WHERE и проверки NULL.
 

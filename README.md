@@ -18,10 +18,9 @@
 1. Создайте свою копию через **Use this template → Create a new repository**. Назовите её `database-course`.
 2. Заполните карточку выше и клонируйте свою копию через GitHub Desktop.
 3. Подключитесь к учебному серверу PostgreSQL по [инструкции](docs/SETUP.md).
-4. Выполните [пару Ф04 / КТП04](practice/F04-KTP04-first-sql/README.md).
-5. Сохраните SQL и короткие пояснения. Нажмите Commit и Push origin.
+4. Сохраните выполненную работу. Нажмите Commit и Push origin.
 
-Шаблон доступен студентам для создания собственных копий. Google Drive содержит копию материалов: [папка группы](https://drive.google.com/drive/folders/1YTC-Jt9m-JXu6tpWondBzVQ7tpqJ3sxs).
+Материалы курса на Google Drive: [папка группы](https://drive.google.com/drive/folders/1YTC-Jt9m-JXu6tpWondBzVQ7tpqJ3sxs).
 
 ## Где что хранится
 
@@ -53,13 +52,6 @@
 |---|---|---|
 | Первая работа | Добавьте ссылку | Заполните после выполнения |
 
-## Нумерация
-
-`Ф04 / КТП04` означает фактическую пару 4 и опорную позицию 4 исходного КТП. Папки имеют вид `F04-KTP04-first-sql`. Дополнительно затронутые темы перечисляются внутри конспекта.
-
 ## Обновления
 
 Порядок получения материалов и сохранения своих решений — в [UPDATES.md](docs/UPDATES.md). В каждую выданную папку уже вложены заготовки для работы. Свои решения сохраняйте в SQL-файлах, ответы — в `notes.md`, `report.md` и файлах проекта.
-
-Структура подготовлена по примерам [cpp-start-template](https://github.com/kryovox/cpp-start-template) и [ado-net-start-template](https://github.com/MaximBytecamp/ado-net-start-template).
-
