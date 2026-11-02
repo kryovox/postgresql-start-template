@@ -1,0 +1,18 @@
+# Локальные параметры и учётные данные
+.env
+.env.*
+!.env.example
+.pgpass
+pgpass.conf
+*.key
+*.pem
+# Локальные резервные копии и данные сервера
+*.dump
+*.backup
+pgdata/
+# Временные файлы
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
