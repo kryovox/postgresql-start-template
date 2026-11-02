@@ -8,8 +8,8 @@
 | Группа | 11/1-РПО-26/1 или 9/2-РПО-25/3 |
 | Учебный год | 2026–2027 |
 | СУБД | PostgreSQL |
-| Среда | pgAdmin 4 · Query Tool |
-| Тема проекта | Заполните |
+| Среда | pgAdmin 4 |
+| Тема проекта | * |
 
 **Начало:** [первые шаги](docs/START.md) · [настройка](docs/SETUP.md) · [конспекты](lectures/README.md) · [практика](practice/README.md) · [домашние задания](homework/README.md) · [мой проект](homework/project/README.md).
 
