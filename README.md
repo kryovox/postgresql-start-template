@@ -21,7 +21,7 @@
 4. Выполните [пару Ф04 / КТП04](practice/F04-KTP04-first-sql/README.md).
 5. Сохраните SQL и короткие пояснения. Нажмите Commit и Push origin.
 
-Шаблон сейчас закрыт. Для самостоятельного создания студенческих копий преподаватель должен предоставить доступ к шаблону или открыть его. Google Drive содержит копию материалов: [папка группы](https://drive.google.com/drive/folders/1YTC-Jt9m-JXu6tpWondBzVQ7tpqJ3sxs).
+Шаблон доступен студентам для создания собственных копий. Google Drive содержит копию материалов: [папка группы](https://drive.google.com/drive/folders/1YTC-Jt9m-JXu6tpWondBzVQ7tpqJ3sxs).
 
 ## Где что хранится
 
@@ -62,3 +62,4 @@
 Порядок получения материалов и сохранения своих решений — в [UPDATES.md](docs/UPDATES.md). В каждую выданную папку уже вложены заготовки для работы. Свои решения сохраняйте в SQL-файлах, ответы — в `notes.md`, `report.md` и файлах проекта.
 
 Структура подготовлена по примерам [cpp-start-template](https://github.com/kryovox/cpp-start-template) и [ado-net-start-template](https://github.com/MaximBytecamp/ado-net-start-template).
+

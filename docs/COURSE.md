@@ -20,7 +20,7 @@
 
 | Пара | Конспект | Практика | Домашний шаг |
 |---|---|---|---|
-| Ф04 / КТП04 | [Первое знакомство с SQL](../lectures/F04-KTP04-first-sql.md) | [Каталог курсов](../practice/F04-KTP04-first-sql/README.md) | [Выбор ядра проекта](../homework/F04-KTP04-project-start/README.md) |
+| Ф04 / КТП04 | [Реляционная модель и первые команды SQL](../lectures/F04-KTP04-first-sql.md) | [Товары и фильмы](../practice/F04-KTP04-first-sql/README.md) | [Выбор ядра проекта](../homework/F04-KTP04-project-start/README.md) |
 
 ## Накопительный проект
 
