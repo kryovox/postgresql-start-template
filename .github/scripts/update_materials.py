@@ -27,6 +27,8 @@ def is_teacher(path):
 
 
 def allowed(path):
+    if path.parts[0] in WORK_DIRS and len(path.parts) > 1 and path.parts[1] == "trainer":
+        return False
     return (path.parts[0] in TEACHER_DIRS | WORK_DIRS
             or path.as_posix() in TEACHER_FILES)
 
@@ -46,7 +48,7 @@ def sync_materials(template, student):
         if target.is_symlink() or any(parent.is_symlink() for parent in target.parents if parent != student):
             continue
         # Проверка пути сохраняет перенос внутри репозитория студента.
-        if student not in target.resolve().parents:
+        if student not in target.resolve().parents or any(p.exists() and not p.is_dir() for p in target.parents if p != student and student in p.parents):
             continue
         if target.exists():
             if not is_teacher(relative) or not target.is_file():
