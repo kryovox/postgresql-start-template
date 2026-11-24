@@ -88,3 +88,5 @@ psql -h localhost -U YOUR_USER -d YOUR_DATABASE -f practice/01-first-sql/main.sq
 Новые материалы можно получать через вкладку **Actions**.
 Настройка и правила сохранения своих работ описаны в [UPDATES.md](docs/UPDATES.md).
 Перед занятием синхронизируйте локальную копию с GitHub.
+
+Для практикумов Universal Trainer предусмотрен [регламент сдачи](docs/SUBMIT.md).
